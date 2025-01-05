@@ -1,5 +1,6 @@
 # Mini-Projet “ForestNocturne”
-
+Oumayma MISSAOUI
+Syrine ATOUI
 ## Description
 Ce projet est un **mini-jeu** utilisant des **Steering Behaviors** (comportements de Craig Reynolds). Vous incarnez un **monstre démoniaque** qui doit **éliminer** toutes les **lucioles** dans la forêt en moins de 15 secondes.
 
